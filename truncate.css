@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+.truncate {
+    background-color: yellow;
+    font-size: 1.5rem;
+    width: 400px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-transform: ellipsis;
+}
